@@ -5,6 +5,8 @@
 [![CircleCI](https://circleci.com/gh/redsift/dnstrace.svg?style=shield)](https://circleci.com/gh/redsift/dnstrace)
 [![Docker Image](https://images.microbadger.com/badges/image/redsift/dnstrace.svg)](https://microbadger.com/images/redsift/dnstrace)
 
+Added to CTIX Systems Performance Monitoring Collection
+
 Command-line DNS benchmark tool built to stress test and measure the performance of DNS servers with commodity hardware.
 This tool typically consumes ~30kB per concurrent connection and can maintain ~30,000 QPS per modern core if your server, OS and network allows you to reach suitable levels of concurrency.
 
